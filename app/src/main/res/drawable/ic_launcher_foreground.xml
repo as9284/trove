@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crop brackets, sized to breathe within the adaptive safe zone. -->
+    <path
+        android:strokeColor="#1B1A17"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M36,49 V36 H49" />
+    <path
+        android:strokeColor="#1B1A17"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M59,36 H72 V49" />
+    <path
+        android:strokeColor="#1B1A17"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M36,59 V72 H49" />
+    <path
+        android:strokeColor="#1B1A17"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M72,59 V72 H59" />
+    <!-- Gem -->
+    <path
+        android:fillColor="#C0892E"
+        android:pathData="M54,46 L62,54 L54,62 L46,54 Z" />
+</vector>

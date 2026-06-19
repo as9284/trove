@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108">
+  <!-- Adaptive icon FOREGROUND layer. Transparent bg; mark breathes within the 66dp safe zone. -->
+  <g fill="none" stroke="#1B1A17" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 49 V36 H49"/>
+    <path d="M59 36 H72 V49"/>
+    <path d="M36 59 V72 H49"/>
+    <path d="M72 59 V72 H59"/>
+  </g>
+  <path d="M54 46 L62 54 L54 62 L46 54 Z" fill="#C0892E"/>
+</svg>

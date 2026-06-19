@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
+  <!-- Feature / banner graphic (1024x500). Centered editorial lockup:
+       mark over wordmark over tagline, balanced in the vertical safe area. -->
+  <rect width="1024" height="500" fill="#F2ECDF"/>
+  <g transform="translate(420.2 76.2) scale(1.7)">
+    <g fill="none" stroke="#1B1A17" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M36 49 V36 H49"/>
+      <path d="M59 36 H72 V49"/>
+      <path d="M36 59 V72 H49"/>
+      <path d="M72 59 V72 H59"/>
+    </g>
+    <path d="M54 46 L62 54 L54 62 L46 54 Z" fill="#C0892E"/>
+  </g>
+  <text x="512" y="322" text-anchor="middle" font-family="Fraunces, 'Source Serif 4', Georgia, serif" font-size="120" font-weight="500" fill="#1B1A17" letter-spacing="1">Trove</text>
+  <text x="512" y="366" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Roboto, sans-serif" font-size="22" letter-spacing="5" fill="#8A8578">YOUR SCREENSHOTS, FOUND</text>
+</svg>
